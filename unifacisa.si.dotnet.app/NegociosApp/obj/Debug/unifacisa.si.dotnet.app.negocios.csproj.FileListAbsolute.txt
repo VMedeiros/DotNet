@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\DotNet\unifacisa.si.dotnet.app\NegociosApp\bin\Debug\NegociosApp.dll
+C:\Users\aluno\Desktop\DotNet\unifacisa.si.dotnet.app\NegociosApp\bin\Debug\NegociosApp.pdb
+C:\Users\aluno\Desktop\DotNet\unifacisa.si.dotnet.app\NegociosApp\bin\Debug\unifacisa.si.dotnet.app.dados.dll
+C:\Users\aluno\Desktop\DotNet\unifacisa.si.dotnet.app\NegociosApp\bin\Debug\unifacisa.si.dotnet.app.dados.pdb
+C:\Users\aluno\Desktop\DotNet\unifacisa.si.dotnet.app\NegociosApp\obj\Debug\unifacisa.si.dotnet.app.negocios.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\DotNet\unifacisa.si.dotnet.app\NegociosApp\obj\Debug\NegociosApp.dll
+C:\Users\aluno\Desktop\DotNet\unifacisa.si.dotnet.app\NegociosApp\obj\Debug\NegociosApp.pdb

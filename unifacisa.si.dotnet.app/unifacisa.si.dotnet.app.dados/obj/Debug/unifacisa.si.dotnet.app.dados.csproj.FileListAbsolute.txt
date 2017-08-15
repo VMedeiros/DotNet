@@ -1,0 +1,5 @@
+C:\Users\aluno\Desktop\DotNet\unifacisa.si.dotnet.app\unifacisa.si.dotnet.app.dados\bin\Debug\unifacisa.si.dotnet.app.dados.dll
+C:\Users\aluno\Desktop\DotNet\unifacisa.si.dotnet.app\unifacisa.si.dotnet.app.dados\bin\Debug\unifacisa.si.dotnet.app.dados.pdb
+C:\Users\aluno\Desktop\DotNet\unifacisa.si.dotnet.app\unifacisa.si.dotnet.app.dados\obj\Debug\unifacisa.si.dotnet.app.dados.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\DotNet\unifacisa.si.dotnet.app\unifacisa.si.dotnet.app.dados\obj\Debug\unifacisa.si.dotnet.app.dados.dll
+C:\Users\aluno\Desktop\DotNet\unifacisa.si.dotnet.app\unifacisa.si.dotnet.app.dados\obj\Debug\unifacisa.si.dotnet.app.dados.pdb

@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unifacisa.si.dotnet.app.web", "unifacisa.si.dotnet.app.web\unifacisa.si.dotnet.app.web.csproj", "{2DBD78A4-B470-443D-B9FE-E2BEAA7E20FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unifacisa.si.dotnet.app.negocios", "NegociosApp\unifacisa.si.dotnet.app.negocios.csproj", "{D3CBE634-4235-4B46-8959-3CAA23CABE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unifacisa.si.dotnet.app.dados", "unifacisa.si.dotnet.app.dados\unifacisa.si.dotnet.app.dados.csproj", "{79CA242F-9779-4172-B832-DA60F487C484}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBD78A4-B470-443D-B9FE-E2BEAA7E20FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBD78A4-B470-443D-B9FE-E2BEAA7E20FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBD78A4-B470-443D-B9FE-E2BEAA7E20FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBD78A4-B470-443D-B9FE-E2BEAA7E20FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CBE634-4235-4B46-8959-3CAA23CABE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CBE634-4235-4B46-8959-3CAA23CABE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CBE634-4235-4B46-8959-3CAA23CABE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CBE634-4235-4B46-8959-3CAA23CABE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79CA242F-9779-4172-B832-DA60F487C484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CA242F-9779-4172-B832-DA60F487C484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CA242F-9779-4172-B832-DA60F487C484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CA242F-9779-4172-B832-DA60F487C484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

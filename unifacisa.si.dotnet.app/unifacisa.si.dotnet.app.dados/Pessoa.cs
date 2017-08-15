@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace unifacisa.si.dotnet.app.dados
 {
-    public class Class1
+    public class Pessoa
     {
-    }
+        public int id { get; set; }
+        public string nome { get; set; }
+        public string cpf { get; set; }
+        public List<Telefone> Telefones { get; set; }
+
+}
 }
